@@ -5,6 +5,6 @@ A little about me: I’m currently a student at Berufskolleg Bergisch Gladbach (
 
 This is my School
 
-<img  alt="image" src="https://www.bkgl.de/fileadmin/_processed_/5/5/csm_bkgl-herzlich-willkommen-02_d2efff280b.jpg" />
+<img  alt="image" src="https://www.betagenese.de/wp-content/uploads/2022/01/Fatigue_2.jpg" />
 
 That’s it for now—just wanted to share this first step. More posts coming soon!
